@@ -2,8 +2,8 @@
  * geometry_test.c
  * Andy Sayler
  * CSCI 3308
- * Summer 2014
- *Mattie Yang
+ * Summer 2014 - Fall 2018
+ *Mattie Yang 
  * This file containsunit tests for geometry.c
  *
  * Requires http://check.sourceforge.net/
